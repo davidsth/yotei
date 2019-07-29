@@ -11,6 +11,8 @@
     "typescript": "^3.5.3"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
     "webpack-dev-server": "^3.7.2"
   }
 }
