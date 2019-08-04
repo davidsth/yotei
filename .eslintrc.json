@@ -4,7 +4,7 @@
     "es6": true
   },
   "extends": [
-    "airbnb"
+    "airbnb-typescript"
   ],
   "globals": {
     "Atomics": "readonly",
@@ -30,7 +30,9 @@
       {
         "extensions": [
           ".js",
-          ".jsx"
+          ".ts",
+          ".jsx",
+          ".tsx"
         ]
       }
     ]
