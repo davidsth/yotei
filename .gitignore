@@ -32,6 +32,8 @@ node_modules/
 
 /public/packs
 /public/packs-test
+/public/sw.*
+
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
