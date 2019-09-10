@@ -3,10 +3,14 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "^4.0.7",
+    "@types/pouchdb": "^6.4.0",
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.5",
+    "@types/react-router": "^5.0.3",
+    "pouchdb": "^7.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3"
   },
@@ -14,6 +18,7 @@
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
     "eslint": "^5.16.0",
+    "eslint-utils": ">=1.4.1",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
